@@ -1,0 +1,15 @@
+D:\Projects\MoveIt-app\MoveIt.BusinessLogic\obj\Debug\MoveIt.BusinessLogic.csprojResolveAssemblyReference.cache
+D:\Projects\MoveIt-app\MoveIt.BusinessLogic\bin\Debug\MoveIt.BusinessLogic.dll
+D:\Projects\MoveIt-app\MoveIt.BusinessLogic\bin\Debug\MoveIt.BusinessLogic.pdb
+D:\Projects\MoveIt-app\MoveIt.BusinessLogic\obj\Debug\MoveIt.BusinessLogic.dll
+D:\Projects\MoveIt-app\MoveIt.BusinessLogic\obj\Debug\MoveIt.BusinessLogic.pdb
+D:\Projects\MoveIt-app\MoveIt-App\MoveIt.BusinessLogic\bin\Debug\MoveIt.BusinessLogic.dll
+D:\Projects\MoveIt-app\MoveIt-App\MoveIt.BusinessLogic\bin\Debug\MoveIt.BusinessLogic.pdb
+D:\Projects\MoveIt-app\MoveIt-App\MoveIt.BusinessLogic\obj\Debug\MoveIt.BusinessLogic.csprojResolveAssemblyReference.cache
+D:\Projects\MoveIt-app\MoveIt-App\MoveIt.BusinessLogic\obj\Debug\MoveIt.BusinessLogic.dll
+D:\Projects\MoveIt-app\MoveIt-App\MoveIt.BusinessLogic\obj\Debug\MoveIt.BusinessLogic.pdb
+E:\Projects\MoveIT-SE\moveit\MoveIt.BusinessLogic\bin\Debug\MoveIt.BusinessLogic.dll
+E:\Projects\MoveIT-SE\moveit\MoveIt.BusinessLogic\bin\Debug\MoveIt.BusinessLogic.pdb
+E:\Projects\MoveIT-SE\moveit\MoveIt.BusinessLogic\obj\Debug\MoveIt.BusinessLogic.csprojResolveAssemblyReference.cache
+E:\Projects\MoveIT-SE\moveit\MoveIt.BusinessLogic\obj\Debug\MoveIt.BusinessLogic.dll
+E:\Projects\MoveIT-SE\moveit\MoveIt.BusinessLogic\obj\Debug\MoveIt.BusinessLogic.pdb
